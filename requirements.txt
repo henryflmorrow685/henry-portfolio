@@ -1,0 +1,5 @@
+streamlit>=1.43,<2
+pandas>=2.2,<3
+yfinance>=0.2.60
+plotly>=5.22
+streamlit-autorefresh>=1.0.1
